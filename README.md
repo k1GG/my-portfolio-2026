@@ -17,6 +17,10 @@ A modern personal portfolio website showcasing projects, technical skills, profe
 - Vercel
 - Git
 - GitHub
+- Kilo Code
+- Notion AI
+- Google AI Studio
+- Replit
 
 ## Steps Completed
 
@@ -29,10 +33,10 @@ A modern personal portfolio website showcasing projects, technical skills, profe
 
 ## Challenges & Solutions
 
-- **Deployment issues on Vercel:** Resolved build and deployment configuration problems by checking project settings and redeploying with the correct setup.
-- **Styling inconsistencies:** Improved spacing, typography, and layout styles to keep the design consistent across sections.
-- **Responsive design challenges:** Adjusted layouts, breakpoints, and element sizing so the site works well on desktop, tablet, and mobile screens.
-- **Broken links or assets:** Verified navigation links, project URLs, images, and static assets to ensure everything loads correctly.
+- Deployment issues on Vercel:Resolved build and deployment configuration problems by checking project settings and redeploying with the correct setup.
+- Styling inconsistencies:Improved spacing, typography, and layout styles to keep the design consistent across sections.
+- Responsive design challenges:Adjusted layouts, breakpoints, and element sizing so the site works well on desktop, tablet, and mobile screens.
+- Broken links or assets:Verified navigation links, project URLs, images, and static assets to ensure everything loads correctly.
 
 ## How to Run Locally
 
@@ -57,5 +61,5 @@ For a static HTML, CSS, and JavaScript project, you can also open `index.html` d
 
 ## Author
 
-- **Name:** Keval Kerkar
-- **GitHub:** [k1GG](https://github.com/k1GG)
+- Name: Keval Kerkar
+- GitHub: [k1GG](https://github.com/k1GG)
